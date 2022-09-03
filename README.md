@@ -1,4 +1,4 @@
-# Jogo-em-java
+# Jogo em java
 Projeto para a disciplina de Linguagem de Programação Orientada à Objetos da UNIP.
 
 Jogo com interface gráfica e temática voltada para o desenvolvimento sustentável.
