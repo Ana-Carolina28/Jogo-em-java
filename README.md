@@ -1,6 +1,8 @@
 # Jogo-em-java
-Projeto para a disciplina de Linguagem de Programação Orientada à Objetos da UNIP,
+Projeto para a disciplina de Linguagem de Programação Orientada à Objetos da UNIP.
 
-Projeto de um jogo com interface gráfica desenvolvido por Ana Carolina Vargas, e Vittorio Marchesini.
+Jogo com interface gráfica e temática voltada para o desenvolvimento sustentável.
+
+Desenvolvido por Ana Carolina Vargas, e Vittorio Marchesini.
 
 Baseado nos tutoriais de RyiSnow, no Youtube.
